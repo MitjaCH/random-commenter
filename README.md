@@ -12,7 +12,7 @@ This extension adds random funny comments to your code at random intervals. It's
 
 Example:
 
-\!\[Random Commenter in action\](images/random-commenter.gif)
+![random-commenter](images/random-commenter.gif)
 
 > Tip: The comments are non-intrusive and are intended to add a bit of fun without disrupting your workflow.
 
