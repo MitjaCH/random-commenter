@@ -16,8 +16,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "random-commenter.helloWorld",
-        "title": "Hello World"
+        "command": "random-commenter.addRandomComment",
+        "title": "Add Random Comment"
       }
     ]
   },
