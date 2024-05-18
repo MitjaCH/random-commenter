@@ -1,4 +1,3 @@
-Sure! Here’s the README for your "random-commenter" extension:
 
 ---
 
