@@ -3,7 +3,7 @@
 
 # random-commenter README
 
-This is the README for your extension "random-commenter". This extension adds random funny comments to your code at random intervals. It's a light-hearted tool to bring some humor into your coding routine.
+This extension adds random funny comments to your code at random intervals. It's a light-hearted tool to bring some humor into your coding routine. Keep in mind this is my first ever VS-CODE Extension so it is something simpel.
 
 ## Features
 
